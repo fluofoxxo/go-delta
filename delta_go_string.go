@@ -7,7 +7,8 @@ package delta
 
 import (
 	"bytes"
-	"fmt"
+
+	fmt "gitlab.com/cathalgarvey/fmtless"
 )
 
 // GoString returns a Go-syntax representation of the Delta structure.

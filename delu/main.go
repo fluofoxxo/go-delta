@@ -6,9 +6,10 @@
 package main
 
 import (
-	"fmt"
 	"io/ioutil"
 	"os"
+
+	fmt "gitlab.com/cathalgarvey/fmtless"
 
 	"github.com/balacode/go-delta"
 )

@@ -6,7 +6,7 @@
 package delta
 
 import (
-	"fmt"
+	fmt "gitlab.com/cathalgarvey/fmtless"
 )
 
 // Dump prints this object to the console in a human-friendly format.

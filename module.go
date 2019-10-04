@@ -8,8 +8,9 @@ package delta
 import (
 	"bytes"
 	"errors"
-	"fmt"
+
 	"github.com/balacode/zr"
+	fmt "gitlab.com/cathalgarvey/fmtless"
 )
 
 // -----------------------------------------------------------------------------

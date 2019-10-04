@@ -11,11 +11,12 @@ package delta
 
 import (
 	"bytes"
-	"fmt"
 	"io/ioutil"
 	"runtime"
 	"strings"
 	"testing"
+
+	fmt "gitlab.com/cathalgarvey/fmtless"
 )
 
 const (

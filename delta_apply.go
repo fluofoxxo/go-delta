@@ -7,7 +7,8 @@ package delta
 
 import (
 	"bytes"
-	"fmt"
+
+	fmt "gitlab.com/cathalgarvey/fmtless"
 )
 
 // Apply uses the 'source' byte array, applies this

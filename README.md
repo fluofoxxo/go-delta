@@ -29,7 +29,7 @@
 package main
 
 import (
-    "fmt"
+    fmt "gitlab.com/cathalgarvey/fmtless"
     "github.com/balacode/go-delta"
 )
 
